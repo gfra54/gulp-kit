@@ -1,12 +1,13 @@
-# gulp-kit
+# gulp-nodekit
 Integrates [`node-kit`](https://github.com/jeremyworboys/node-kit) 
 with [`gulp`](http://gulpjs.com/) to compile 
 [`.kit`](http://incident57.com/codekit/help.html#kit) templates 
 with your own build system.
+This is a fork from https://github.com/fatso83/gulp-nodekit where the node-kit version was too old to handle variables in kit files.
 
 ## Usage
     
-    var kit = require('gulp-kit');
+    var kit = require('gulp-nodekit');
 
     gulp.task('default', function(){
         return gulp.src('src/kit/*.kit')
