@@ -1,11 +1,11 @@
 {
-  "name": "gulp-kit",
-  "version": "0.3.0",
-  "description": "Integrates node-kit with gulp to compile .kit files",
+  "name": "gulp-kit-11",
+  "version": "0.1.0",
+  "description": "Integrates node-kit 0.11.0 with gulp to compile .kit files",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukx/gulp-kit"
+    "url": "https://github.com/gfra54/gulp-kit"
   },
   "keywords": [
     "gulp",
@@ -13,10 +13,10 @@
     "html",
     "node-kit"
   ],
-  "author": "Lukas Domnick <lukx@lukx.de>",
+  "author": "Gilles FRANCOIS>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/lukx/gulp-kit/issues"
+    "url": "https://github.com/gfra54/gulp-kit/issues"
   },
   "dependencies": {
     "node-kit": "0.11.0",
